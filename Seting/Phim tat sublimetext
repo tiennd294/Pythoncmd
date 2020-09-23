@@ -1,0 +1,84 @@
+I.  CHỈNH SỬA
+1	Ctrl + X	Cắt dòng
+2	Ctrl + Shift + Enter	Thêm dòng phía trên con trỏ
+3	Ctrl + Enter	Thêm dòng phía dưới con trỏ
+4	Ctrl + Shift + ↑	Đưa dòng hiện tại lên trên 1 dòng
+5	Ctrl + Shift + ↓	Đưa dòng hiện tại xuống dưới 1 dòng
+6	Ctrl + L	Bôi đen cả dòng và đưa con trỏ xuống dòng tiếp theo
+7	Ctrl + D	Bôi đen từ đang được trỏ
+8	Ctrl + M	Đưa trỏ đến dấu đóng ngoặc gần nhất ( ví dụ trong câu lệnh if-else)
+9	Ctrl + Shift + M	Bôi đen toàn bộ nội dung trong cặp dấu ngoặc
+10	 Ctrl + KK	Xóa hết đến cuối dòng bắt đầu từ vị trí con trỏ
+11	Ctrl + K + Backspace	Xóa hết đến đầu dòng bắt đầu từ vị trí con trỏ
+12	Ctrl + ]	Tab dòng hiện tại vào trong 1 tab
+13	Ctrl+ [	Lùi dòng hiện tại ra ngoài 1 tab
+14	Ctrl + Shift + D	Nhân đôi dòng hiện tại hoặc khối lệnh được bôi đen
+15	Ctrl + J	Nối dòng phía dưới xuống cuối dòng hiện tại của con trỏ
+16	Ctrl + /	Comment 1 dòng lệnh kiểu //
+17	Ctrl + Shift + /	Comment 1 khối dòng lệnh kiểu /**/
+18	Ctrl + Y	Lấy lại những thao tác vừa bị Undo
+19	Ctrl + Shift + V	Dán và đưa con trỏ xuống cuối dòng
+20	Ctrl + Space	Bật gợi ý
+21	Ctrl + U	Undo lặp lại những thao tác trước đó
+
+
+II. Điều hướng/ di chuyển
+27	Ctrl + P	Mở nhanh file bằng cách gõ tên
+28	Ctrl + R	Đi đến vị trí kí tự được gõ
+29	Ctrl + ;	Đi đến vị trí kí tự được gõ ở trong file hiện tại
+30	Ctrl + G	Đi đến số dòng được gõ
+ 
+
+III.  Cài đặt chung
+31	Ctrl + Shift + P	Mở command line
+32	Ctrl + KB	Đóng mở hiển thị danh sách file (ở bên trái màn hình)
+33	Ctrl + Shift + Alt + P	Hiện phạm vi trong thanh trạng thái
+
+IV. Chia màn hình
+34	Alt + Shift + 2	Mở thêm 1 view (Chia đôi màn hình hiện tại)
+35	Alt + Shift + 1	Trở về 1 view như mặc định
+36	Alt + Shift + 5	Chia thành 4 màn hình view
+37	Ctrl + 2	Nhảy đến màn hình số 2]
+38	Ctrl + Shift + 2	Chuyển file hiện tại đến màn hình số 2
+ 
+
+V. Thao tác với văn bản
+39	Ctrl + KU	Chuyển chữ ở con trỏ/bôi đen thành chữ hoa
+40	Ctrl + KL	Chuyển chữ ở con trỏ/bôi đen thành chữ thường
+41	shift+ctrl+K	Xóa dòng
+42	Ctrl+BACKSPACE	Xóa ký tự đằng trước
+43	Ctrl+DEL	Xóa ký tự đằng sau
+ 
+
+VI. Lựa chọn văn bản
+44	Alt+ctrl+DOWN	Thêm dòng dưới con trỏ
+45	Ctrl+Kctrl+D	Bỏ qua lựa chọn
+46	Shift+LL	Chia vùng chọn thành các dòng
+47	Alt+F3	Thêm con trỏ ở tất cả các vị trí có 1 từ
+48	Alt+ctrl+UP	Thêm dòng mới ở trên vị trí con trỏ
+ 
+
+VII. Code Folding and Marks
+ 49	Ctrl+Kctrl+G	Xóa nhãn
+50 	Ctrl+KX	Di chuyển vị trí nhãn
+51 	Ctrl+K A	Chọn nhãn
+52 	Ctrl+K+[SPACE]	Đặt nhãn
+53 	Ctrl+KJ	Mở tất cả
+54 	Shift+Ctrl+]	Mở code
+55 	Shift+Ctrl+[	Đóng code
+ 
+
+VII. Tabs
+56	Ctrl + Shift + T	Mở tab vừa được đóng cuối cùng
+57	Ctrl + PgUp	Mở tab theo một vòng từ trái qua phải
+58	Ctrl + PgDown	Mở tab theo một vòng từ phải qua trái
+59	Ctrl + Tab	Mở tab tiếp theo
+60	Ctrl + [NUMBER]	Mở tab số [NUMBER]
+ 
+
+VIII. Bookmarks
+61	Ctrl + F2	Đóng mở bookmark
+62 	alt+F2	Chọn tất cả bookmarrk
+63	F2	Bookmark tiếp theo
+64	Shift + F2	Bookmark phía trước
+65	Ctrl + Shift + F2	Xóa bookmark
